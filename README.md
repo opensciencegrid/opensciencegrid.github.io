@@ -1,4 +1,6 @@
-## Welcome to the OSG
+:exclamation: Recent Changes to Website Workflow, Check [below](#making-website-changes) for details!
+
+## Welcome to the OSG 
 
 This repository contains the source code of the OSG website; it is not the public facing site.
 
