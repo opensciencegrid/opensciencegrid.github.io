@@ -1,7 +1,7 @@
 ---
 title: "Researcher Connor Natzke Wins 2022 David Swanson Memorial Award"
-date: 2022-04-11 12:00:00 -0600
-excerpt: Nicholas Cooley was awarded the 2021 David Swanson Memorial Award at the March OSG All-Hands Meeting. The memorial was established to honor our late colleage David Swanson who contributed to campus research across the country.
+date: 2022-04-11
+excerpt: Connor Natzke was awarded the 2022 David Swanson Memorial Award at the March OSG All-Hands Meeting. The memorial was established to honor our late colleage David Swanson who contributed to campus research across the country.
 ---
 
 <figure class="figure float-end" style="margin-left: 1em">
