@@ -5,7 +5,7 @@ excerpt: Connor Natzke was awarded the 2022 David Swanson Memorial Award at the 
 ---
 
 <figure class="figure float-end" style="margin-left: 1em">
-  <img src="{{ '/assets/images/Connor-Natzke-Square-smaller.jpg | relative_url }}" class="figure-img img-fluid rounded" alt="Connor Natzke" width="250px">
+  <img src="{{ '/assets/images/Connor-Natzke-Square-smaller.jpg' | relative_url }}" class="figure-img img-fluid rounded" alt="Connor Natzke" width="250px">
   <figcaption class="figure-caption">Connor Natzke<br/></figcaption>
 </figure>
 
