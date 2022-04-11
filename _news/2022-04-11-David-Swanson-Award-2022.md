@@ -2,7 +2,6 @@
 title: "Researcher Connor Natzke Wins 2022 David Swanson Memorial Award"
 date: 2022-04-11 12:00:00 -0600
 excerpt: Nicholas Cooley was awarded the 2021 David Swanson Memorial Award at the March OSG All-Hands Meeting. The memorial was established to honor our late colleage David Swanson who contributed to campus research across the country.
-card_image: /assets/images/Connor-Natzke-Square-smaller.jpg
 ---
 
 <figure class="figure float-end" style="margin-left: 1em">
@@ -18,3 +17,8 @@ spoke about his journey with the OSG Consortium and the impact OSG services have
 simulation speed of his project. Watch his presentation below. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YTyFIdOsJvY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+... 
+
+Learn more about the [David Swanson Memorial Award and past recipients](https://path-cc.io/web-preview/preview-add-ahm-summary-article/news/2021-03-19-Nicholas-Cooley-2021-David-Swanson-Award-Winner/). 
+Browse [all videos](https://www.youtube.com/channel/UCVxyV0Lr1KiTeq7bTw3gwLw/playlists?view=50&sort=dd&shelf_id=1) from OSG All-Hands Meeting 2022. 
